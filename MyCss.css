@@ -1,0 +1,7 @@
+.square {
+  height: 350px;
+  width: 100%;
+  background-color: red;
+  opacity:0.5;
+  padding-left: 20px;
+}
